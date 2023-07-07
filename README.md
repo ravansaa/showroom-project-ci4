@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tiket-id.vercel.app" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1015028360759492710/1126848010442244136/Group_60.png" alt="Logo" width="300">
+    <img src="public/assets/images/banner.png" alt="Logo" width="300">
   </a>
   <h2 style="font-size:30px;" align="center"><strong>Showroom Kendaraan</strong></h2>
  
