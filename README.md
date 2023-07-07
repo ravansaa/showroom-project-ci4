@@ -69,36 +69,31 @@ fitur book now: <br>pada setiap halaaman detail motor dan mobil terdapat fitur b
 <br/>
 
 ## Halaman Home
-  <img src=".png" alt="Home" width="500">
+  <img src="img/home.png" alt="Home" width="500">
 <br/>
 
 ## Halaman Motorcyle
-  <img src=".png" alt="Motorcyle" width="500">
+  <img src="img/motor.png" alt="Motorcyle" width="500">
 
 <br/>
 
 ## Halaman Automobile
- <img src=".png" alt="Automobile" width="500">
+ <img src="img/mobil.png" alt="Automobile" width="500">
 
 <br/>
 
 ## Halaman Contacts
- <img src=".png" alt="contacts" width="500">
+ <img src="img/contact.png" alt="contacts" width="500">
 
 <br/>
 
 ## Book Now
- <img src=".png" alt="Book now" width="500">
-
-<br/>
-
-## Detail
- <img src=".png" alt="Detail" width="500">
+ <img src="img/book.png" alt="Book now" width="500">
 
 <br/>
 
 ## Database
- <img src=".png" alt="Database" width="500">
+ <img src="img/database.png" alt="Database" width="500">
 
 <br/>
   
