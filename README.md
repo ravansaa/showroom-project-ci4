@@ -41,9 +41,8 @@ Motorcycle: <br>di halaman ini berisi berbagai pilihan motor yang dapat di pesan
 
 Automobile: <br>di halaman ini berisi berbagai pilihan mobil yang dapat di pesan oleh penbeli ,pilih salah satu mobil yang ada pada pilihan lalu klik jelajahi untuk melihat detail yang lebih spesifik dari mobil yang di pilih.
 
-menu contct: <br>belum tau
 
-fitur book now: <br>pada setiap halaaman detail motor dan mobil terdapat fitur book now untuk memsan kendaran ,pembeli akan di minta memasukan nama,nomor,alamat
+fitur book now: <br>pada setiap halaaman detail motor dan mobil terdapat fitur book now untuk memesan kendaran ,pembeli akan di minta memasukan nama,nomor,alamat
 
 <br/>
 
