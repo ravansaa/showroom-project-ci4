@@ -71,15 +71,15 @@ fitur book now: <br>pada setiap halaaman detail motor dan mobil terdapat fitur b
 ## Halaman Home
   <img src="img/home.png" alt="Home" width="500">
 <br/>
-
+<img src="img/home2.png" alt="Home2" width="500">
 ## Halaman Motorcyle
   <img src="img/motor.png" alt="Motorcyle" width="500">
-
+<img src="img/motor.png" alt="Motorcyle" width="500">
 <br/>
 
 ## Halaman Automobile
  <img src="img/mobil.png" alt="Automobile" width="500">
-
+<img src="img/mobil.png" alt="Automobile" width="500">
 <br/>
 
 ## Halaman Contacts
