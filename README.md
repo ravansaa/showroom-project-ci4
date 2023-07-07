@@ -20,12 +20,12 @@ Mata Kuliah     : Pemograman Web 2
 
 Dosen           : Agung Nugroho,S.Kom.,M.Kom
 
-Kelompok 1      : • Muhammad Akbar (312110483) - Frontend Development
-                  • Ridho Pikriyansyah (312110169) - Backend Development
-                  • Rifky Abdillah Hasan (312110164) - Design Ui dan Logo
-                  • Indi Alya Putri (312110137) - Documentasi dan Readme
-                  • Raihan Herfiansyah (312110245) - Demo Aplikasi
-                  • Ekky Mandala Aji (312110535) - Pembelian Hosting
+Kelompok 1      : • 312110103 / RAVANSA RAHMAN SANTOSA- Backend Develop
+                  • 312110177 / MUHAMMAD KHRISNA FAISAL ZUHRI- Frontend Development
+                  • 312110172 / MUFIDA NURIYANA - Design Ui dan Logo
+                  • 312110151 / RIZAL PRINGGANDANI - Documentasi dan Readme
+                  • 312110181 / HAMIM MUHANA AYDIN NASHIF - Demo Aplikasi
+                 
 ```
 <br/>
 
