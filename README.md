@@ -20,7 +20,7 @@ Mata Kuliah     : Pemograman Web 2
 
 Dosen           : Agung Nugroho,S.Kom.,M.Kom
 
-Kelompok 1      : • 312110103 / RAVANSA RAHMAN SANTOSA- Membuat Database dan Tamplate
+Kelompok 1      : • 312110103 / RAVANSA RAHMAN SANTOSA- Membuat Database dan Templat Halaman Utama
                   • 312110177 / MUHAMMAD KHRISNA FAISAL ZUHRI- Membuat Halaman Motorcylce
                   • 312110151 / RIZAL PRINGGANDANI - Membuat Halaman Automobile
                   • 312110172 / MUFIDA NURIYANA - Membuat Halaman Detail Mobil
